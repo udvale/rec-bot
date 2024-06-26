@@ -1,10 +1,5 @@
-<<<<<<< HEAD
+
 # Azure Cosmos DB + Azure OpenAI Developer Guide Front End Application
-
-This repository is a pre-built Front End application that is shared by the following developer guides:
-
-- [Azure Cosmos DB + Azure OpenAI Node.js Developer Guide](https://github.com/AzureCosmosDB/Azure-OpenAI-Node.js-Developer-Guide)
-- [Azure Cosmos DB + Azure OpenAI Python Developer Guide](https://github.com/AzureCosmosDB/Azure-OpenAI-Python-Developer-Guide)
 
 ## Contributing
 
@@ -29,4 +24,3 @@ Use of Microsoft trademarks or logos in modified versions of this project must n
 Any use of third-party trademarks or logos are subject to those third-party's policies.
 =======
 # azure-chatbot1
->>>>>>> 7c0981688ab0540674aa89b76230ac2933608599
